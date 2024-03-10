@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter (M2006C3LG)",
+            "program": "lib/main.dart",
+            "deviceId": "KNBYPFT4AIRO85WC",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
